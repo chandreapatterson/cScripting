@@ -34,33 +34,28 @@ The C++ Scripting Project is a project created to demonstrate the fundamentals o
 1. Clone the repository:
 
 	```
-git clone https://github.com/chandreapatterson/cScripting.git
-	```
+ 	git clone https://github.com/chandreapatterson/cScripting.git
 
 2. Navigate into the project directory:
 
 	```
-cd main
-	```
+ 	cd main
 
 3. Compile the project
 
 	```
-g++ main.cpp -o main
-	```
+ 	g++ main.cpp -o main
 
 4. Run the executable
 
 	```
-./main
-	```
+ 	./main
 
 ### Setup Instructions (for Visual Studio)
 1. Clone the repository:
 
 	```
-git clone https://github.com/chandreapatterson/cScripting.git
-	```
+ 	git clone https://github.com/chandreapatterson/cScripting.git
  
 2. Locate and open the main.sln file using Visual Studio
 
@@ -70,9 +65,7 @@ git clone https://github.com/chandreapatterson/cScripting.git
 
 After installation, you can run the project (Visual Studio) or use the following command (GCC or Clang):
 
-	```
-./main
-	```
+ 	./main
 
 The script will perform an insertion of a sample record while printing to the console.
 
